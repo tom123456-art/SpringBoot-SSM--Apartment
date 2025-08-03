@@ -64,7 +64,7 @@ public class AttrController {
     @Operation(summary = "根据id删除属性值")
     @DeleteMapping("value/deleteById")
     public Result removeAttrValueById(@RequestParam Long id) {
-        attrValueService.removeById(id);
+
         return Result.ok();
     }
 
