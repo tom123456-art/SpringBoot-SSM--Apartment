@@ -3,6 +3,7 @@ package com.atguigu.lease.web.admin.mapper;
 import com.atguigu.lease.model.entity.AttrKey;
 import com.atguigu.lease.web.admin.vo.attr.AttrKeyVo;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
@@ -12,8 +13,11 @@ import java.util.List;
 * @createDate 2023-07-24 15:48:00
 * @Entity com.atguigu.lease.model.AttrKey
 */
+
+
 public interface AttrKeyMapper extends BaseMapper<AttrKey> {
 
+    List<AttrKeyVo> listAttrInfo();
 }
 
 
