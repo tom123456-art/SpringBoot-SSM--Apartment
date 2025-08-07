@@ -72,7 +72,7 @@
 
 本项目的核心业务流程为签约、续约、退租，具体流程如下图所示
 
-<img src="blob/核心业务流程图.drawio.svg" style="zoom:40%;" />
+![](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E6%A0%B8%E5%BF%83%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%9B%BE.drawio.svg)
 
 在上述的业务流程中，会涉及到租约状态的多次变化，下面详细介绍一下租约状态。租约共有7个状态，分别是`签约待确认`、`已签约`、`已取消`、`已到期`、`退租待确认`、`已退租`、`续约待确认`，以下是这些状态的变化流程。
 
