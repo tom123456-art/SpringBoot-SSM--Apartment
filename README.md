@@ -12,7 +12,7 @@
 
 其主要业务功能如下图所示
 
-![](blob/移动端-业务功能.drawio.svg)
+![](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E7%A7%BB%E5%8A%A8%E7%AB%AF-%E4%B8%9A%E5%8A%A1%E5%8A%9F%E8%83%BD.drawio.svg)
 
 各功能模块具体内容如下
 
