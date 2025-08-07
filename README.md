@@ -36,7 +36,7 @@
 
 主要业务功能如下图所示
 
-![](blob/后台-业务功能.drawio.svg)
+![](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E5%90%8E%E5%8F%B0-%E4%B8%9A%E5%8A%A1%E5%8A%9F%E8%83%BD.drawio.svg)
 
 各功能模块具体内容如下
 
