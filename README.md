@@ -76,7 +76,7 @@
 
 在上述的业务流程中，会涉及到租约状态的多次变化，下面详细介绍一下租约状态。租约共有7个状态，分别是`签约待确认`、`已签约`、`已取消`、`已到期`、`退租待确认`、`已退租`、`续约待确认`，以下是这些状态的变化流程。
 
-![]([blob/租约状态变化流程.drawio.svg](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E7%A7%9F%E7%BA%A6%E7%8A%B6%E6%80%81%E5%8F%98%E5%8C%96%E6%B5%81%E7%A8%8B.drawio.svg))
+![](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E7%A7%9F%E7%BA%A6%E7%8A%B6%E6%80%81%E5%8F%98%E5%8C%96%E6%B5%81%E7%A8%8B.drawio.svg))
 
 ## 项目技术概述
 
