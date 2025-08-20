@@ -6,7 +6,7 @@
 
 尚庭公寓是一个公寓租赁平台项目，包含**移动端**和**后台管理系统**，其中移动端面向广大用户，提供找房、看房预约、租约管理等功能，后台管理系统面向管理员，提供公寓（房源）管理、租赁管理、用户管理等功能。下面分别介绍两端的具体业务功能。
 
-![](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E9%A1%B9%E7%9B%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.drawio.png)
+![](https://github.com/tom123456-art/SpringBoot-SSM--Apartment/blob/main/lease/blob/%E9%A1%B9%E7%9B%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.drawio.png?raw=true)
 
 移动端
 
